@@ -45,7 +45,7 @@ output: build
 #
 # default: true
 
-# file_hash: false
+file_hash: false
 
 
 # CSS Class Prefix
