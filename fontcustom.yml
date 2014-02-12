@@ -37,7 +37,7 @@ output: build
 #
 # default: fontcustom
 
-# font_name: fontcustom
+font_name: yue
 
 
 # Font Hash
